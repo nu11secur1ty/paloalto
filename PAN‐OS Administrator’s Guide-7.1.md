@@ -1,5 +1,6 @@
-`About this Guide
-This guide takes you through the configuration and maintenance of your Palo Alto Networks next‐generation
+# About this Guide
+
+`This guide takes you through the configuration and maintenance of your Palo Alto Networks next‐generation
 firewall. For additional information, refer to the following resources:
  For information on how to configure other components in the Palo Alto Networks Next‐Generation Security
 Platform, go to the Technical Documentation portal: https://www.paloaltonetworks.com/documentation or
